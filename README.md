@@ -3,7 +3,7 @@
 ### Contact info:
 
 [![Pablo's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astro-reddtea)
-[![Pablo's Research Summary](https://img.shields.io/badge/github-repo-blue?logo=github)](https://reddtea.github.io)
+[![Pablo's Research Summary](https://img.shields.io/badge/GitHub-ResearchSummary-blue?logo=github)](https://reddtea.github.io)
 
 
 
