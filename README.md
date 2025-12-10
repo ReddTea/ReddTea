@@ -2,12 +2,13 @@
 
 ### Contact info:
 
-[![Pablo's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/astro-reddtea](https://www.linkedin.com/in/astro-reddtea))
-[![Pablo's Research Summary](https://img.shields.io/badge/github-repo-blue?logo=github)]([https://img.shields.io/badge/github-repo-blue?logo=github](https://reddtea.github.io))
+[![Pablo's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astro-reddtea)
+[![Pablo's Research Summary](https://img.shields.io/badge/github-repo-blue?logo=github)](https://reddtea.github.io)
 
 
 
 <!--
+[![badge name](badge-url)](link)
 **ReddTea/ReddTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
